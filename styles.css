@@ -1,0 +1,36 @@
+/* Created by Manofsteel21 */
+
+body {
+  background-color:#45aaf2;
+}
+.button
+{
+	width:60px;
+	height:60px;
+	font-size:20px;
+	background-color:#F0F0F0;
+	font-size:25px;
+
+}
+.t
+{
+	width:248px;
+	height:40px;
+	padding:2px;
+	font-size:25px;
+	margin:2px;
+	background-color:#eeeeee;
+	color:#000000;
+}
+#abc{
+	width:124px;
+	
+}
+#xyz{
+	width:124px;
+}
+.main{
+	width:257px;
+	height:350px;
+	background-color:#000000;
+}
